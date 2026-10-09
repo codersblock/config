@@ -11,6 +11,7 @@ Plugin 'tpope/vim-commentary'
 Plugin 'scrooloose/nerdtree'
 Plugin 'majutsushi/tagbar'
 Plugin 'tomlion/vim-solidity'
+Plugin 'nanotech/jellybeans.vim'
 call vundle#end()
 filetype indent on
 
